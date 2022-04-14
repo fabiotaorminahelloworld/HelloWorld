@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fabiotaorminahelloworld/Helloworld/Chapter05"
+    "url": "https://github.com/fabiotaorminahelloworld/Helloworld"
   },
   "devDependencies": {
     "mocha": "~2.5.3",
@@ -21,7 +21,7 @@
   "author": "",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/fabiotaorminahelloworld/Helloworld/Chapter05/issues"
+    "url": "https://github.com/fabiotaorminahelloworld/Helloworld/issues"
   },
   "dependencies": {
     "zombie": "~3.0.15"
