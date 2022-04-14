@@ -1,0 +1,26 @@
+{
+  "name": "HelloWorld",
+  "version": "1.0.0",
+  "description": "HelloWorld application",
+  "main": "helloworld.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabiotaorminahelloworld/Helloworld/Chapter05"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "zombie": "^6.1.4"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/fabiotaorminahelloworld/Helloworld/Chapter05/issues"
+  }
+}
