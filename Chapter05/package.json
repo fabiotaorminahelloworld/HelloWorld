@@ -11,8 +11,8 @@
     "url": "https://github.com/fabiotaorminahelloworld/Helloworld/Chapter05"
   },
   "devDependencies": {
-    "mocha": "^2.5.3",
-    "zombie": "^6.1.4"
+    "mocha": "~2.5.3",
+    "zombie": "~3.0.15"
   },
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
