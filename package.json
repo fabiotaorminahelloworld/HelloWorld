@@ -11,8 +11,8 @@
     "url": "https://github.com/fabiotaorminahelloworld/Helloworld"
   },
   "devDependencies": {
-    "mocha": "^2.5.3",
-    "zombie": "^6.1.4"
+    "mocha": "~2.5.3",
+    "zombie": "~3.0.15"
   },
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
@@ -22,5 +22,8 @@
   "license": "BSD",
   "bugs": {
     "url": "https://github.com/fabiotaorminahelloworld/Helloworld/issues"
+  },
+  "dependencies": {
+    "zombie": "~3.0.15"
   }
 }
