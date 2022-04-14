@@ -15,7 +15,7 @@
     "zombie": "^6.1.4"
   },
   "scripts": {
-    "test": "node_modules/mocha/bin/mocha"
+    "test": "./node_modules/mocha/bin/mocha"
   },
   "keywords": [],
   "author": "",
