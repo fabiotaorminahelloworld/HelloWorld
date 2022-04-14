@@ -1,7 +1,7 @@
 {
   "name": "HelloWorld",
   "version": "1.0.0",
-  "description": "",
+  "description": "HelloWorld",
   "main": "helloworld.js",
   "directories": {
     "test": "test"
