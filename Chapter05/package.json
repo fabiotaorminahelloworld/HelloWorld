@@ -1,7 +1,7 @@
 {
   "name": "HelloWorld",
   "version": "1.0.0",
-  "description": "",
+  "description": "HelloWorld",
   "main": "helloworld.js",
   "directories": {
     "test": "test"
@@ -22,5 +22,8 @@
   "license": "BSD",
   "bugs": {
     "url": "https://github.com/fabiotaorminahelloworld/Helloworld/Chapter05/issues"
+  },
+  "dependencies": {
+    "zombie": "~3.0.15"
   }
 }
